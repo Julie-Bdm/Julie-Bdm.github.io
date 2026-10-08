@@ -26,6 +26,10 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+sass:
+  load_paths:
+    - _sass
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,7 +63,7 @@ plugins:
 author:
   name   : "Julie Biedermann"
   avatar : "/assets/images/photo_id.png"
-  bio    : "Test 2.2 couleur - PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
+  bio    : "Test 3 ! - PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
   links:
     #- label: "ORCID"
     #  icon: "ai ai-orcid"
