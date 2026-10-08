@@ -14,12 +14,12 @@ $primary-color: #afccaf;    // Couleur d'accentuation principale
 /* Custom banner */
 
 .page__hero--overlay {
-    height: 10px;
+    height: 200px;
     overflow: hidden;
   }
   
   .page__hero--overlay img {
     width: 100%;
-    height: 100%;
+    height: 50%;
     object-fit: cover;
   }
