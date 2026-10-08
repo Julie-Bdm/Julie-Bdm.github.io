@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Julie Biedermann"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo_id.png"
   bio    : "PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
   links:
     #- label: "ORCID"
