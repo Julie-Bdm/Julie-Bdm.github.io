@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Julie Biedermann
+email: julie.biedermann@astro.unistra.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  PhD student in astrophysics at the Astrnomical Observaotry of Strasbourg, working on the polarization of quasars. 
 twitter_username: username
-github_username: username
+github_username: "Julie-Bdm"
 minimal_mistakes_skin: default
 search: true
 
@@ -58,22 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Julie Biedermann"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "ORCID"
+    #  icon: "ai ai-orcid"
+    #  url: "https://orcid.org/my-orcid?orcid=0009-0000-5831-3518"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Julie-Bdm"
 
 footer:
   links:
