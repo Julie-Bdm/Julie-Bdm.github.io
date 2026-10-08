@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   PhD student in astrophysics at the Astrnomical Observaotry of Strasbourg, working on the polarization of quasars. 
 twitter_username: username
 github_username: "Julie-Bdm"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: 'dark'
 search: true
 
 # Build settings
@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Julie Biedermann"
   avatar : "/assets/images/photo_id.png"
-  bio    : "Test 3 ! - PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
+  bio    : "Test 4 ! - PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
   links:
     #- label: "ORCID"
     #  icon: "ai ai-orcid"
