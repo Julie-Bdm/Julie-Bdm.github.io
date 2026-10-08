@@ -10,3 +10,16 @@ $primary-color: #afccaf;    // Couleur d'accentuation principale
 
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
+
+/* Custom banner */
+
+.page__hero--overlay {
+    height: 250px;
+    overflow: hidden;
+  }
+  
+  .page__hero--overlay img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
