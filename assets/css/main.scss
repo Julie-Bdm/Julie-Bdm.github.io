@@ -47,3 +47,12 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .layout--home .pagination {
   display: none !important;
 }
+
+/* Image credit in the footer */
+.page__footer::after {
+    content: "Image credits: ESO/M. Kornmesser.";
+    display: block;
+    text-align: center;
+    font-size: 0.8em;
+    padding-bottom: 1em;
+  }
