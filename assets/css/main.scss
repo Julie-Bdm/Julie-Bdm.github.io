@@ -2,27 +2,19 @@
 ---
 
 // 1. Définissez vos nouvelles couleurs ici (AVANT l'import)
-$background-color: #afccaf; // Couleur de fond principale  F2EAD8    F2F1ED
-$text-color: #3D5D3D;       // Couleur du texte
+$background-color: #F2F1ED;  // Couleur de fond principale  F2EAD8    F2F1ED
+$text-color: #3D5D3D;       // Couleur du texte 3D5D3D
 $link-color: #3D5D3D;       // Couleur des liens hypertexte
 $primary-color: #afccaf;    // Couleur d'accentuation principale
 
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
-.page__hero {
-    outline: 5px solid red !important;
-  }
+/* Custom quasar banner */
 
-/* Custom banner */
-
-.page__hero--overlay {
-    height: 200px;
-    overflow: hidden;
-  }
-  
-  .page__hero--overlay img {
+.layout--home .page__hero-image {
     width: 100%;
-    height: 10%;
+    height: 220px;
     object-fit: cover;
+    object-position: center;
   }
