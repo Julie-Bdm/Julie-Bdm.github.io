@@ -101,12 +101,12 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     color: #000000;
   }
 
-/* Keep the same banner appearance on internal pages */
-.layout--single .page__hero {
-  min-height: 300px;
-  background-size: cover;
-  background-position: center;
-}
+//* Keep the same banner appearance on internal pages */
+//.layout--single .page__hero {
+//  min-height: 300px;
+//  background-size: cover;
+//  background-position: center;
+//}
 
 /* Widen the content area on the Publications page */
 .layout--single .publication-page .page__inner-wrap {
@@ -116,7 +116,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
 /* Same banner on all pages */
 .layout--single .page__hero {
-  height: 450px;
+  height: 300;
   min-height: 0;
   background-size: cover;
   background-position: center;
