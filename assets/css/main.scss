@@ -13,6 +13,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale
 /* Custom quasar banner */
 
 .layout--home .page__hero-image {
+    display: block;
     width: 100%;
     height: 400px;
     object-fit: cover;
