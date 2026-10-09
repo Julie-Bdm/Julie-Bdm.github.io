@@ -52,8 +52,9 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .page__footer::after {
     content: "Image credits: ESO/M. Kornmesser.";
     display: block;
-    text-align: center;
-    font-size: 0.8em;
-    color: #E15B69;
+    text-align: left;
+    font-size: 0.6em;
+    color: #3D5D3D;
     padding-bottom: 1em;
+    padding-left: 2em;
   }
