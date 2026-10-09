@@ -59,6 +59,11 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     padding-left: 1em; //2em
   }
 
+/* Justify text only on the About page */
+.about-page .page__content {
+    text-align: justify;
+  }
+
 /* Publications list */
 .publication-list {
     list-style: none;
