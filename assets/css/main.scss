@@ -113,3 +113,28 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   max-width: 1400px;
   width: 95%;
 }
+
+/* Same banner on all pages */
+.layout--single .page__hero {
+  height: 450px;
+  min-height: 0;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Place the navigation over the banner on internal pages */
+.layout--single .masthead {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  background: transparent;
+  border-bottom: none;
+}
+
+.layout--single .masthead,
+.layout--single .masthead__inner-wrap,
+.layout--single .greedy-nav {
+  background: transparent !important;
+}
