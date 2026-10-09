@@ -4,7 +4,7 @@ main:
   - title: "Research"
     url: /posts/
   - title: "Publications"
-    url: /categories/
+    url: /publications/
   - title: "Talks"
     url: /tags/
   - title: "CV"
