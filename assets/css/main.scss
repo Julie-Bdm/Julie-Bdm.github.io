@@ -40,7 +40,10 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   background: transparent !important;
 }
 
-/* Hide default posts on the homepage */
-.layout--home .entries-list {
-    display: none;
-  }
+/* Hide default blog content on the homepage */
+.layout--home .archive__subtitle,
+.layout--home .entries-list,
+.layout--home .entries-grid,
+.layout--home .pagination {
+  display: none !important;
+}
