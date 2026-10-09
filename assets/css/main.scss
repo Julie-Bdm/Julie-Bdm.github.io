@@ -7,9 +7,12 @@ $text-color: #3D5D3D;       // Couleur du texte
 $link-color: #3D5D3D;       // Couleur des liens hypertexte
 $primary-color: #afccaf;    // Couleur d'accentuation principale
 
-
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
+
+.page__hero {
+    outline: 5px solid red !important;
+  }
 
 /* Custom banner */
 
