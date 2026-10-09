@@ -101,7 +101,6 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     color: #000000;
   }
 
-
 /* Widen the content area on the Publications page */
 .layout--single .publication-page .page__inner-wrap {
   max-width: 1400px;
@@ -109,13 +108,17 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 }
 
 
-/* Same banner dimensions on internal pages */
+
+
+/* Internal page banners */
 .layout--single .page__hero {
+  box-sizing: border-box;
+  width: 100%;
   height: 450px;
   min-height: 450px;
-  background-size: cover;
-  background-position: center;
   overflow: hidden;
+  background-size: cover;
+  background-position: center center;
 }
 
 .layout--single .page__hero-image {
@@ -123,7 +126,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   width: 100%;
   height: 450px;
   object-fit: cover;
-  object-position: center;
+  object-position: center center;
 }
 
 /* Place the navigation over the banner on internal pages */
