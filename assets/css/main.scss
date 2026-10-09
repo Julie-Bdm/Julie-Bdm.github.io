@@ -39,3 +39,8 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .layout--home .greedy-nav {
   background: transparent !important;
 }
+
+/* Hide default posts on the homepage */
+.layout--home .entries-list {
+    display: none;
+  }
