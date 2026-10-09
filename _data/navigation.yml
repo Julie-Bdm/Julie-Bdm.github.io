@@ -5,8 +5,8 @@ main:
     url: /posts/
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /tags/
+  - title: "Conferences"
+    url: /conferences/
   - title: "CV"
     url: /assets/pdf/CV_Biedermann.pdf
   
