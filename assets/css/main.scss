@@ -18,3 +18,14 @@ $primary-color: #afccaf;    // Couleur d'accentuation principale
     object-fit: cover;
     object-position: center;
   }
+
+/* Navigation over the home banner */
+
+.layout--home .masthead {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: transparent;
+  }
