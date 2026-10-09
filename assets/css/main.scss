@@ -31,3 +31,11 @@ $primary-color: #EF4D52;    // Couleur d'accentuation principale red : EF4D52 | 
     background: transparent;
     border-bottom: none;
   }
+
+/* Transparent navigation on the home page */
+
+.layout--home .masthead,
+.layout--home .masthead__inner-wrap,
+.layout--home .greedy-nav {
+  background: transparent !important;
+}
