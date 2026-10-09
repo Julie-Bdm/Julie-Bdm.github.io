@@ -1,6 +1,4 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /posts/
   - title: "Publications"
@@ -9,3 +7,5 @@ main:
     url: /tags/
   - title: "CV"
     url: /assets/pdf/CV_Biedermann.pdf
+  - title: "About"
+    url: /about/
