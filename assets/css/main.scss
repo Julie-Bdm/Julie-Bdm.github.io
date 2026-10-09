@@ -96,3 +96,10 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     color: #3D5D3D;
     text-decoration: underline;
   }
+
+/* Keep the same banner appearance on internal pages */
+.layout--single .page__hero {
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+}
