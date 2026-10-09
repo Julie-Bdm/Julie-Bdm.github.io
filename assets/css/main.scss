@@ -103,3 +103,9 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   background-size: cover;
   background-position: center;
 }
+
+/* Widen the content area on the Publications page */
+.layout--single .publication-page .page__inner-wrap {
+  max-width: 1400px;
+  width: 95%;
+}
