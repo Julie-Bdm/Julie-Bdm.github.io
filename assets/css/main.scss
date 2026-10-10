@@ -188,3 +188,17 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   background-color: #3D5D3D;
   margin: 2em 0;
 }
+
+// augmenter espace d'ecrtirue du centre de chaque page : 
+
+/* Widen the main content area on internal pages */
+.layout--single .page {
+  max-width: 1600px;
+  width: 95%;
+}
+
+/* Widen the text column while preserving the author profile */
+.layout--single .page__inner-wrap {
+  max-width: none;
+  width: 100%;
+}
