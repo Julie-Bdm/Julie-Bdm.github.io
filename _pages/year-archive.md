@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
-permalink: /posts/
-layout: posts
+title: "Research"
+permalink: /research/
 layout: single
 author_profile: true
 ---
