@@ -145,7 +145,6 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
 // pages yaear-archive.md :
 
-
 /* Research page */
 .research-page .research-topics {
   list-style: none;
@@ -169,6 +168,15 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   width: 7px;
   height: 7px;
   background-color: #3D5D3D;
+}
+
+/* Research text colors */
+.research-page .research-text-black {
+  color: #000000;
+}
+
+.research-page .research-text-green {
+  color: #3D5D3D;
 }
 
 /* Green separators between research projects */
