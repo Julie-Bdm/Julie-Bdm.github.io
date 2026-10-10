@@ -9,4 +9,5 @@ header:
 ---
 
 {% capture about_content %}{% include_relative _pages/about.md %}{% endcapture %}
-{{ about_content | markdownify }}
+{% assign about_content = about_content | split: "---" %}
+{{ about_content[2] | markdownify }}
