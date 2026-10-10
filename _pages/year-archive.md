@@ -20,7 +20,7 @@ classes: research-page
 
 <div class="research-text-black">
     Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
-<div class="research-text-black">
+</div>
 
 <div class="research-divider"></div>
 
@@ -29,19 +29,15 @@ classes: research-page
 <div class="research-text-black">
 
 Write a short description of your research project here. Introduce the scientific question, explain the observational approach, and briefly describe the main objective or results.
-<div class="research-text-black">
+</div>
 
 <div class="research-divider"></div>
 
-<div class="research-text-greem">
-
 ## Mrk 231 Probing complex AGN structures through spectropolarimetry
-<div class="research-text-greem">
 
 <div class="research-text-black">
 Introduce your second research project here, explaining how it complements your broader research interests.
-<div class="research-text-black">
-
+</div>
 
 <div class="research-divider"></div>
 
