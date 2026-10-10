@@ -7,27 +7,31 @@ classes: research-page
 ---
 
 <ul class="research-topics">
-  <li>Active Galactic Nuclei (AGN)</li>
-  <li>Quasars and extreme AGN</li>
-  <li>Optical and UV spectropolarimetry</li>
+  <li>Active Galactic Nuclei </li>
+  <li>Quasars</li>
+  <li>Optical and Ultra-Violet spectropolarimetry</li>
   <li>Polarization and inner geometry</li>
   <li>Accretion disks and supermassive black holes</li>
 </ul>
 
-<hr class="research-divider">
+<div class="research-divider"></div>
 
-## Project 1 — [Project title]
+## Towards a broader view of AGN polarization
+
+Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
+
+<div class="research-divider"></div>
+
+
+## H alpha asymetrique - Geometry and polarization in extreme AGN
 
 Write a short description of your research project here. Introduce the scientific question, explain the observational approach, and briefly describe the main objective or results.
 
-<hr class="research-divider">
+<div class="research-divider"></div>
 
-## Project 2 — [Project title]
+## Mrk 231 - Probing complex AGN structures through spectropolarimetry
 
 Introduce your second research project here, explaining how it complements your broader research interests.
 
-<hr class="research-divider">
+<div class="research-divider"></div>
 
-## Project 3 — [Project title]
-
-Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
