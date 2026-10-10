@@ -24,7 +24,7 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-## H alpha asymetrique Geometry and polarization in extreme AGN
+## Hα asymetrique geometry and polarization in extreme AGN
 
 <div class="research-text-black">
 
