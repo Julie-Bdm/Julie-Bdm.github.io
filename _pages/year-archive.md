@@ -24,14 +24,13 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-
-## H alpha asymetrique - Geometry and polarization in extreme AGN
+## H alpha asymetrique Geometry and polarization in extreme AGN
 
 Write a short description of your research project here. Introduce the scientific question, explain the observational approach, and briefly describe the main objective or results.
 
 <div class="research-divider"></div>
 
-## Mrk 231 - Probing complex AGN structures through spectropolarimetry
+## Mrk 231 Probing complex AGN structures through spectropolarimetry
 
 Introduce your second research project here, explaining how it complements your broader research interests.
 
