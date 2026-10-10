@@ -18,7 +18,9 @@ classes: research-page
 
 ## Towards a broader view of AGN polarization
 
-Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
+<ul class="research-topics">
+    Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
+</ul>
 
 <div class="research-divider"></div>
 
