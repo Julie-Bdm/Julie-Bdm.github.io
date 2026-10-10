@@ -191,18 +191,25 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
 // augmenter espace d'ecrtirue du centre de chaque page : 
 
-/* Widen the main content area on internal pages */
-.layout--single .page {
-  max-width: 1600px;
+
+/* Widen the page while preserving the profile column */
+.layout--single #main {
+  max-width: 1800px;
   width: 95%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Widen the text column while preserving the author profile */
-.layout--single .page__inner-wrap {
-  max-width: none;
+.layout--single .page {
   width: 100%;
+  max-width: none;
 }
 
+.layout--single .page__inner-wrap {
+  width: 100%;
+  max-width: none;
+  box-sizing: border-box;
+}
 
 // fichier index.html 
 
