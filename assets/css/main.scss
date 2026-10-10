@@ -202,3 +202,11 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   max-width: none;
   width: 100%;
 }
+
+
+// fichier index.html 
+
+/* Black text on the homepage */
+.layout--home .page__content {
+  color: #000000;
+}
