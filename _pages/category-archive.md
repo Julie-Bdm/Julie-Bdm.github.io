@@ -16,7 +16,7 @@ classes: research-page
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
-    <a href="/assets/pdf/aa60661-26.pdf" target="_blank" rel="noopener">[PDF]</a>
+    <a href="/assets/pdf/article/aa60661-26.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
 
@@ -30,7 +30,7 @@ classes: research-page
     <br>
     <em>Astronomy and Astrophysics (2025).</em>
     <br>
-    <a href="/assets/pdf/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
+    <a href="/assets/pdf/article/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
 
@@ -44,7 +44,7 @@ classes: research-page
     <br>
     <em>Astronomy and Astrophysics (TEST).</em>
     <br>
-    <a href="/assets/pdf/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
+    <a href="/assets/pdf/article/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
 
