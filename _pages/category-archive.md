@@ -13,8 +13,6 @@ classes:
   <a href="#co-author">Co-authored publications</a>
 </div>
 
-<div class="research-divider"></div>
-
 <h2 id="first-author" class="publication-category-title">
   First-author publications
 </h2>
@@ -46,8 +44,6 @@ classes:
     <a href="/assets/pdf/article/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
-
-<div class="research-divider"></div>
 
 <h2 id="co-author" class="publication-category-title">
   Co-authored publications
