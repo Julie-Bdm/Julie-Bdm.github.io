@@ -9,3 +9,11 @@ classes: research-page
 
 <div class="research-divider"></div>
 
+<ul class="publication-list">
+    <li>
+    <em></strong>POLLUX@HWO</strong> Talk</em>
+    <br>
+    January 2025 - Paris, France
+    <br>
+  </li>
+</ul>
