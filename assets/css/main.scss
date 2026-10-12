@@ -232,3 +232,34 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .layout--home .page__content {
   color: #000000;
 }
+
+// page tag-archieve.md = CONFERENCE/TALK/POSTERs
+
+/* Conference and presentation list */
+.publication-conference {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.publication-conference li {
+  position: relative;
+  padding-left: 1.3em;
+  margin-bottom: 1.2em;
+  color: #000000;
+}
+
+.publication-conference li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 7px;
+  height: 7px;
+  background-color: #3D5D3D;
+}
+
+.publication-conference a {
+  color: #3D5D3D;
+  text-decoration: underline;
+}
