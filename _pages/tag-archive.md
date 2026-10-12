@@ -23,6 +23,18 @@ classes: research-page
 
 <ul class="publication-conference">
   <li>
+    <strong>SF2A</strong> — Talk
+    <br>
+    <em class="publication-conference"> Jun 2025 • Toulouse, France<em>
+    <br>
+    <a href="/assets/pdf/Biedermann_sf2a_2025" target="_blank" rel="noopener">[Slides PDF]</a>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
     <strong>TEST 2</strong> — Talk
     <br>
     <em class="publication-conference"> January 2025 • Paris, France<em>
