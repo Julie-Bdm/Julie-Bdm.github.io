@@ -7,9 +7,6 @@ layout: single
 classes: research-page
 ---
 
-<a href="#first-author">First-author publications</a>
-<a href="#co-author">Co-authored publications</a>
-
 <div class="research-divider"></div>
 
 <ul class="publication-conference">

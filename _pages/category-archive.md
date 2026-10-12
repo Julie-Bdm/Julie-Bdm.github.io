@@ -3,7 +3,9 @@ title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: true
-classes: publication-page
+classes: 
+  - publication-page
+  - research-page
 ---
 
 <div class="publication-navigation">
