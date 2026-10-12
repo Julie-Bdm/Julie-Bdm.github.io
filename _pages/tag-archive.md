@@ -12,6 +12,18 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
+      <span><strong>YAGN - Young Astronomers on Galactic Nuclei </strong> — Talk</span>
+      <a href="/assets/pdf/Biedermann_YAGN2025" target="_blank" rel="noopener">[Slides PDF]</a>
+    </div>
+    <em class="conference-date">September 2025 • Southampton, UK</em>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
+    <div class="conference-header">
       <span><strong>HWO - Visionary Science and Transformational Technology</strong> — Virtual Poster</span>
       <a href="/assets/pdf/HWO_Biedermann_Julie_Binary_SMBH_Mr231_Pollux.pdf" target="_blank" rel="noopener">[Poster PDF]</a>
     </div>
