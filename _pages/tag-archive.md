@@ -12,10 +12,22 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
+      <span><strong>CNES - JC2 </strong> — Poster and short presentation</span>
+      <a href="/assets/pdf/conference/Biederman_Julie_JC2_2026.pdf" target="_blank" rel="noopener">[Poster PDF]</a>
+    </div>
+    <em class="conference-date">October 2026 • Toulouse, France</em>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
+    <div class="conference-header">
       <span><strong>Supermassive Black Holes and Blue Notes </strong> — Talk</span>
       <a href="/assets/pdf/conference/Biedermann_SMBH_blueNote_2026.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
-    <em class="conference-date">June 2026 • Montréao, Canada</em>
+    <em class="conference-date">June 2026 • Montréal, Canada</em>
   </li>
 </ul>
 
