@@ -4,6 +4,7 @@ title: "About"
 classes: about-page
 layout: single
 author_profile: true
+classes: research-page
 ---
 
 <div class="research-text-black">
