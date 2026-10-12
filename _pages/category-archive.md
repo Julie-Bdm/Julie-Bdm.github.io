@@ -6,6 +6,13 @@ author_profile: true
 classes: research-page
 ---
 
+<a href="#first-author">First-author publications</a>
+<a href="#co-author">Co-authored publications</a>
+
+<div class="research-divider"></div>
+
+<h2 id="first-author">First-author publications</h2>
+
 <div class="research-divider"></div>
 
 <ul class="publication-list">
@@ -33,6 +40,10 @@ classes: research-page
     <a href="/assets/pdf/article/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
+
+<div class="research-divider"></div>
+
+<h2 id="co-author">Co-authored publications</h2>
 
 <div class="research-divider"></div>
 
