@@ -14,7 +14,7 @@ classes: research-page
     <em>Optical spectropolarimetry of extreme Hα line profiles in seven active galactic nuclei.</em>
     </strong>
     <br>
-    Biedermann. J, Marin. F, Hutsemékers. D, Gaskell C. M
+    <strong>Biedermann. J<strong>, Marin. F, Hutsemékers. D, Gaskell C. M
     <br>
     <em>Astronomy and Astrophysics (2026)</em>.
     <br>
@@ -30,7 +30,7 @@ classes: research-page
     <em>Polarimetric insights into a potential binary supermassive black hole system in Mrk 231.</em>
     <strong>
     <br>
-    Biedermann. J, Marin. F, Barnouin. T
+    <strong>Biedermann. J<strong>, Marin. F, Barnouin. T
     <br>
     <em>Astronomy and Astrophysics (2025)</em>.
     <br>
