@@ -6,12 +6,16 @@ author_profile: true
 classes: research-page
 ---
 
-<a href="#first-author">First-author publications</a>
-<a href="#co-author">Co-authored publications</a>
+<div class="publication-navigation">
+  <a href="#first-author">First-author publications</a>
+  <a href="#co-author">Co-authored publications</a>
+</div>
 
 <div class="research-divider"></div>
 
-<h2 id="first-author">First-author publications</h2>
+<h2 id="first-author" class="publication-category-title">
+  First-author publications
+</h2>
 
 <div class="research-divider"></div>
 
@@ -43,7 +47,9 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-<h2 id="co-author">Co-authored publications</h2>
+<h2 id="co-author" class="publication-category-title">
+  Co-authored publications
+</h2>
 
 <div class="research-divider"></div>
 
