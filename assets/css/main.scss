@@ -296,3 +296,11 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .conference-date {
   color: #000000;
 }
+
+.layout--single .conference-page .publication-conference .research-divider {
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: #3D5D3D;
+  margin: 2em 0;
+}

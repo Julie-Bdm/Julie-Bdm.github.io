@@ -20,3 +20,13 @@ classes: research-page
 </ul>
 
 <div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
+    <strong>TEST 2</strong> — Talk
+    <br>
+    <em class="publication-conference"> January 2025 • Paris, France<em>
+    <br>
+    <a href="/assets/pdf/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
+  </li>
+</ul>
