@@ -15,7 +15,7 @@ author_profile: true
     <br>
     <em>Astronomy and Astrophysics (accepeted)</em>.
     <br>
-    <a href="/assets/pdf/2609.29165v1.pdf" target="_blank">[PDF]</a>
+    <a href="/assets/pdf/aa60661-26.pdf" target="_blank">[PDF]</a>
   </li>
 </ul>
 
