@@ -12,6 +12,18 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
+      <span><strong>HWO - Visionary Science and Transformational Technology</strong> — Virtual Poster</span>
+      <a href="/assets/pdf/HWO_Biedermann_Julie_Binary_SMBH_Mr231_Pollux.pdf" target="_blank" rel="noopener">[Poster PDF]</a>
+    </div>
+    <em class="conference-date">July 2025 • Washington DC, USA</em>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
+    <div class="conference-header">
       <span><strong>EAS</strong> — Poster and short presentation</span>
       <span>
       <a href="/assets/pdf/Biedermann_EAS_2025.pdf" target="_blank" rel="noopener">[Poster PDF]</a>
