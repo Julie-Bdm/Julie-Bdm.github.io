@@ -26,7 +26,9 @@ classes: research-page
 
 <ul class="publication-list">
   <li>
+    <strong class="publication-title">
     <em>Polarimetric insights into a potential binary supermassive black hole system in Mrk 231.</em>
+    <strong>
     <br>
     Biedermann. J, Marin. F, Barnouin. T
     <br>
