@@ -35,3 +35,15 @@ classes: research-page
 </ul>
 
 <div class="research-divider"></div>
+
+<ul class="publication-list">
+  <li>
+    <strong class="publication-title"><em>TEST - TEST.</em></strong>
+    <br>
+    <strong>Biedermann, J.</strong>, Marin, F., Barnouin, T.
+    <br>
+    <em>Astronomy and Astrophysics (TEST).<em>
+    <br>
+    <a href="/assets/pdf/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
+  </li>
+</ul>
