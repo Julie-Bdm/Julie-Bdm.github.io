@@ -48,13 +48,4 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-<ul class="publication-conference">
-  <li>
-    <div class="conference-header">
-      <span><strong>TEST 2</strong> — Talk</span>
-      <a href="/assets/pdf/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
-    </div>
-    <em class="conference-date">January 2025 • Paris, France</em>
-  </li>
-</ul>
 
