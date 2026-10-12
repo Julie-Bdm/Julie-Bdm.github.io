@@ -101,6 +101,10 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     color: #000000;
   }
 
+  .publication-list li strong {
+    color: #3D5D3D;
+  }
+  
   /* Publication titles */
 .publication-list .publication-title {
   font-size: 1.2em;
