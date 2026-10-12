@@ -13,7 +13,7 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>Supermassive Black Holes and Blue Notes </strong> — Talk</span>
-      <a href="/assets/pdf/conference/Biedermann_SMBH_blueNote_2026" target="_blank" rel="noopener">[Slides PDF]</a>
+      <a href="/assets/pdf/conference/Biedermann_SMBH_blueNote_2026.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">June 2026 • Montréao, Canada</em>
   </li>
@@ -25,7 +25,7 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>YAGN - Young Astronomers on Galactic Nuclei </strong> — Talk</span>
-      <a href="/assets/pdf/conference/Biedermann_YAGN2025" target="_blank" rel="noopener">[Slides PDF]</a>
+      <a href="/assets/pdf/conference/Biedermann_YAGN2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">September 2025 • Southampton, UK</em>
   </li>
