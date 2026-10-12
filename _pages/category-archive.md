@@ -10,7 +10,9 @@ classes: research-page
 
 <ul class="publication-list">
     <li>
+    <strong class="publication-title">
     <em>Optical spectropolarimetry of extreme Hα line profiles in seven active galactic nuclei.</em>
+    </strong>
     <br>
     Biedermann. J, Marin. F, Hutsemékers. D, Gaskell C. M
     <br>
