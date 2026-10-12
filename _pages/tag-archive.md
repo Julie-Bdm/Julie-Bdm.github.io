@@ -12,6 +12,18 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
+      <span><strong>Supermassive Black Holes and Blue Notes </strong> — Talk</span>
+      <a href="/assets/pdf/Biedermann_SMBH_blueNote_2026" target="_blank" rel="noopener">[Slides PDF]</a>
+    </div>
+    <em class="conference-date">June 2026 • Montréao, Canada</em>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-conference">
+  <li>
+    <div class="conference-header">
       <span><strong>YAGN - Young Astronomers on Galactic Nuclei </strong> — Talk</span>
       <a href="/assets/pdf/Biedermann_YAGN2025" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
