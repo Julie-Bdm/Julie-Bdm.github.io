@@ -14,7 +14,7 @@ classes: research-page
     <br>
     Biedermann. J, Marin. F, Hutsemékers. D, Gaskell C. M
     <br>
-    <em>Astronomy and Astrophysics (accepeted)</em>.
+    <em>Astronomy and Astrophysics (2026)</em>.
     <br>
     <a href="/assets/pdf/aa60661-26.pdf" target="_blank">[PDF]</a>
   </li>
@@ -28,7 +28,7 @@ classes: research-page
     <br>
     Biedermann. J, Marin. F, Barnouin. T
     <br>
-    <em>Astronomy and Astrophysics</em>.
+    <em>Astronomy and Astrophysics (2025)</em>.
     <br>
     <a href="/assets/pdf/aa53694-25.pdf" target="_blank">[PDF]</a>
   </li>
