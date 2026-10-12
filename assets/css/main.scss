@@ -271,3 +271,19 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .publication-conference li em {
   color: #B2C3A0;
 }
+.conference-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+}
+
+.conference-header a {
+  color: #3D5D3D;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.conference-date {
+  color: #000000;
+}

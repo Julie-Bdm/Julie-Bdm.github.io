@@ -6,6 +6,8 @@ author_profile: true
 classes: research-page
 ---
 
+<div class="research-divider"></div>
+
 <ul class="publication-list">
   <li>
     <strong class="publication-title"><em>Optical spectropolarimetry of extreme Hα line profiles in seven active galactic nuclei.</em></strong>
