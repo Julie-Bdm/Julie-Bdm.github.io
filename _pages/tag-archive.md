@@ -12,10 +12,10 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
-      <span><strong>POLLUX@HWO</strong> — Talk</span>
-      <a href="/assets/pdf/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
+      <span><strong>SF2A</strong> — Talk</span>
+      <a href="/assets/pdf/Biedermann_sf2a_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
-    <em class="conference-date">January 2025 • Paris, France</em>
+    <em class="conference-date">June 2025 • Toulouse, France</em>
   </li>
 </ul>
 
@@ -24,10 +24,10 @@ classes: research-page
 <ul class="publication-conference">
   <li>
     <div class="conference-header">
-      <span><strong>SF2A</strong> — Talk</span>
-      <a href="/assets/pdf/Biedermann_sf2a_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
+      <span><strong>POLLUX@HWO</strong> — Talk</span>
+      <a href="/assets/pdf/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
-    <em class="conference-date">June 2025 • Toulouse, France</em>
+    <em class="conference-date">January 2025 • Paris, France</em>
   </li>
 </ul>
 
