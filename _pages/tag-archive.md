@@ -13,7 +13,7 @@ classes: research-page
   <li>
     <strong>POLLUX@HWO</strong> — Talk
     <br>
-    January 2025 — Paris, France
+    <em class="publication-conference"> January 2025 — Paris, France<em>
     <br>
     <a href="/assets/pdf/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
   </li>
