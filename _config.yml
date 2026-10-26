@@ -69,13 +69,13 @@ author:
     #  icon: "ai ai-orcid"
     #  url: "https://orcid.org/my-orcid?orcid=0009-0000-5831-3518"
 
-    #- label: "Email"
-    #    icon: "fas fa-envelope"
-    #    url: "mailto:julie.biedermann@astro.unistra.fr"
+    - label: "Email"
+        icon: "fas fa-envelope"
+        url: "mailto:julie.biedermann@astro.unistra.fr"
 
-    #- label: "LinkedIn"
-    #  icon: "fab fa-linkedin"
-    #  url: "https://www.linkedin.com/in/julie-biedermann/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/julie-biedermann/"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
