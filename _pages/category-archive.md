@@ -63,7 +63,7 @@ classes:
   </li>
 </ul>
 
-div class="research-divider"></div>
+<div class="research-divider"></div>
 
 <ul class="publication-list">
   <li>
@@ -80,16 +80,3 @@ div class="research-divider"></div>
 
 <div class="research-divider"></div>
 
-<ul class="publication-list">
-  <li>
-    <strong class="publication-title"><em>TEST - TEST.</em></strong>
-    <br>
-    <strong>Biedermann, J.</strong>, Marin, F., Barnouin, T.
-    <br>
-    <em>Astronomy and Astrophysics (TEST).</em>
-    <br>
-    <a href="/assets/pdf/article/first_author/aa53694-25.pdf" target="_blank" rel="noopener">[PDF]</a>
-  </li>
-</ul>
-
-<div class="research-divider"></div>
