@@ -65,13 +65,10 @@ author:
   avatar : "/assets/images/photo_id.png"
   bio    : "PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
   links:
-    #- label: "ORCID"
-    #  icon: "ai ai-orcid"
-    #  url: "https://orcid.org/my-orcid?orcid=0009-0000-5831-3518"
 
-    - label: "Email"
-        icon: "fas fa-envelope"
-        url: "mailto:julie.biedermann@astro.unistra.fr"
+    #- label: "Email"
+    #    icon: "fas fa-envelope"
+    #    url: "mailto:julie.biedermann@astro.unistra.fr"
 
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -84,6 +81,11 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0009-0000-5831-3518"
+
+    #- label: "ORCID"
+    #  icon: "ai ai-orcid"
+    #  url: "https://orcid.org/my-orcid?orcid=0009-0000-5831-3518"
+
 
     
 
