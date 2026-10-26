@@ -23,7 +23,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Optical spectropolarimetry of extreme Hα line profiles in seven active galactic nuclei.</em></strong>
     <br>
-    <strong class="author-name">Biedermann, J.</strong>, Marin, F., Hutsemékers, D., Gaskell, C. M.
+    </strong>J. Biedermann</strong> , F. Marin , D. Hutsemékers, and C. M. Gaskell
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -37,7 +37,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Polarimetric insights into a potential binary supermassive black hole system in Mrk 231.</em></strong>
     <br>
-    <strong>Biedermann, J.</strong>, Marin, F., Barnouin, T.
+    </strong>J. Biedermann</strong>, F. Marin , and T. Barnouin
     <br>
     <em>Astronomy and Astrophysics (2025).</em>
     <br>
@@ -55,7 +55,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of five changing-look active galactic nuclei.</em></strong>
     <br>
-    Marin, F., Hutsemékers, D., <strong>Biedermann, J.</strong>.
+    F. Marin, D. Hutsemékers, and </strong>J. Biedermann</strong>
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -69,7 +69,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of the changing-look active galactic nucleus NGC 1566 and its potential link to supermassive black hole binaries.</em></strong>
     <br>
-    Marin, F., Sasse, V. H., <strong>Biedermann</strong>, J., Hutsemekers, D., Fernandes, R. C., Porquet, D., Oknyansky, V.
+    F. Marin, V. H. Sasse , </strong>J. Biedermann</strong> , D. Hutsemékers, R. C. Fernandes, D. Porquet , and V. Oknyansky
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -83,7 +83,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
     <br>
-    Marin, F., Pursimo, T., Liodakis, I., Lindfors, E., <strong>Biedermann, J.</strong>,  Hutsemékers, D., Turkki, M.
+    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong>J. Biedermann<strong>, D. Hutsemékers, and M. Turkki
     <br>
     <em>Astronomy and Astrophysics (2025).</em>
     <br>
@@ -97,7 +97,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory.</em></strong>
     <br>
-    Courtney D. Dressing, Danica Adams, Evelyne Alecian et al (including <strong>Biedermann, Julie.</strong>)
+    C. D. Dressing, D. Adams, E. Alecian et al (including <strong>J. Biedermann<strong>)
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
