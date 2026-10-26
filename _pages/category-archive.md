@@ -104,9 +104,3 @@ classes:
     <a href="https://arxiv.org/pdf/2608.11294" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
-
-<div class="research-divider"></div>
-
-
-
-
