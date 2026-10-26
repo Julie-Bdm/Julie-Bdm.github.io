@@ -83,7 +83,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
     <br>
-    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong class="author-highlight">J. Biedermann<strong>, D. Hutsemékers, and M. Turkki
+    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong class="author-highlight">J. Biedermann<strong> , D. Hutsemékers, and M. Turkki
     <br>
     <em>Astronomy and Astrophysics (2025).</em>
     <br>
