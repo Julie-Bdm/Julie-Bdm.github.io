@@ -8,6 +8,15 @@ header:
   image: /assets/images/banner_image.jpg
 ---
 
-{% capture about_content %}{% include_relative _pages/about.md %}{% endcapture %}
-{% assign about_content = about_content | split: "---" %}
-{{ about_content[2] | markdownify }}
+<div class="home-intro">
+  <h2>Welcome!</h2>
+
+  <p>
+    I am a PhD student in astrophysics at the Astronomical Observatory
+    of Strasbourg. My research focuses on the polarization of active
+    galactic nuclei and quasars, in the context of the future Habitable
+    Worlds Observatory.
+  </p>
+
+  <a class="read-more-button" href="/about/">Read more →</a>
+</div>

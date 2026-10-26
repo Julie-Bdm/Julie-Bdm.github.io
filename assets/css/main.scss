@@ -346,3 +346,37 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   background-color: #3D5D3D;
   margin: 2em 0;
 }
+
+
+// mettre bouton read more sur la page home page : 
+
+
+/* Homepage introduction */
+.home-intro {
+  color: #000000;
+  text-align: justify;
+  margin-top: 1.5em;
+}
+
+.home-intro h2 {
+  color: #3D5D3D;
+  font-weight: bold;
+}
+
+/* Read more button */
+.read-more-button {
+  display: inline-block;
+  margin-top: 0.5em;
+  padding: 0.65em 1.1em;
+  background-color: #B2C3A0;
+  color: #3D5D3D !important;
+  font-weight: bold;
+  text-decoration: none !important;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.read-more-button:hover {
+  background-color: #7E9A6B;
+  color: #3D5D3D !important;
+}
