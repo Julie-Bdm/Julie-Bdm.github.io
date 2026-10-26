@@ -25,7 +25,6 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>Supermassive Black Holes and Blue Notes </strong> — Talk</span>
-      <a href="/assets/pdf/conference/Biedermann_SMBH_blueNote_2026.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">June 2026 • Montréal, Canada</em>
   </li>
@@ -37,7 +36,6 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>YAGN - Young Astronomers on Galactic Nuclei </strong> — Talk</span>
-      <a href="/assets/pdf/conference/Biedermann_YAGN2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">September 2025 • Southampton, UK</em>
   </li>
@@ -76,7 +74,6 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>SF2A</strong> — Talk</span>
-      <a href="/assets/pdf/conference/Biedermann_sf2a_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">June 2025 • Toulouse, France</em>
   </li>
@@ -88,7 +85,6 @@ classes: research-page
   <li>
     <div class="conference-header">
       <span><strong>POLLUX@HWO</strong> — Talk</span>
-      <a href="/assets/pdf/conference/BIEDERMANN_HWO_Pollux_2025.pdf" target="_blank" rel="noopener">[Slides PDF]</a>
     </div>
     <em class="conference-date">January 2025 • Paris, France</em>
   </li>
