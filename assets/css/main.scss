@@ -268,7 +268,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
   .layout--single #main .page {
-    width: 75%;
+    width: 85%;
     float: right;
     clear: none;
   }
@@ -449,5 +449,36 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
   .research-card img {
     aspect-ratio: 16 / 9;
+  }
+}
+
+
+// augemnter taille de page home :
+
+
+/* Widen the homepage content without changing the sidebar */
+@media (min-width: 64em) {
+  .layout--home #main {
+    max-width: 1800px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .layout--home #main .sidebar {
+    width: 20%;
+    margin-left: 0;
+  }
+
+  .layout--home #main .page {
+    width: 80%;
+    float: right;
+    clear: none;
+  }
+
+  .layout--home #main .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+    box-sizing: border-box;
   }
 }
