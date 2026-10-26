@@ -348,7 +348,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 }
 
 
-// mettre bouton read more sur la page home page : 
+// mettre bouton read more sur la page home page :  -------------------------
 
 /* Homepage introduction */
 .home-intro {
@@ -378,4 +378,76 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .read-more-button:hover {
   background-color: #7E9A6B;
   color: #3D5D3D !important;
+}
+
+
+// page home pour afficher les domaines de recherche ------------------------------
+
+/* Research cards on the homepage */
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.research-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1em;
+  background-color: #FFFFFF;
+  border: 1px solid #E0E0D8;
+  border-radius: 6px;
+  color: #000000 !important;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+}
+
+.research-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.8em;
+}
+
+.research-card h3 {
+  margin-top: 0.2em;
+  margin-bottom: 0.5em;
+  color: #3D5D3D;
+  font-size: 1.05em;
+  font-weight: bold;
+}
+
+.research-card p {
+  flex-grow: 1;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.research-card-link {
+  color: #3D5D3D;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-top: auto;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .research-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .research-card img {
+    aspect-ratio: 16 / 9;
+  }
 }
