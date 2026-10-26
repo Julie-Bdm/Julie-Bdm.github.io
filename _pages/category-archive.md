@@ -93,6 +93,20 @@ classes:
 
 <div class="research-divider"></div>
 
+<ul class="publication-list">
+  <li>
+    <strong class="publication-title"><em>Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory.</em></strong>
+    <br>
+    Courtney D. Dressing, Danica Adams, Evelyne Alecian et al (including <strong>Biedermann, Julie.</strong>)
+    <br>
+    <em>Astronomy and Astrophysics (2026).</em>
+    <br>
+    <a href="https://arxiv.org/pdf/2608.11294" target="_blank" rel="noopener">[PDF]</a>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
 
 
 
