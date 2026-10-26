@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Julie Biedermann"
   avatar : "/assets/images/photo_id.png"
-  bio    : "PhD student in astrophysics at the Astronomical Observatory of Strasbourg."
+  bio    : "PhD student in astrophysics at the Astronomical Observatory of Strasbourg in France."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
