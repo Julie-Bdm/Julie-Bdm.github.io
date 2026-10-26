@@ -55,7 +55,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of five changing-look active galactic nuclei.</em></strong>
     <br>
-    F. Marin, D. Hutsemékers, and </strong>J. Biedermann</strong>
+    F. Marin, D. Hutsemékers, and <strong class="author-highlight">J. Biedermann</strong>
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -69,7 +69,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of the changing-look active galactic nucleus NGC 1566 and its potential link to supermassive black hole binaries.</em></strong>
     <br>
-    F. Marin, V. H. Sasse , </strong>J. Biedermann</strong> , D. Hutsemékers, R. C. Fernandes, D. Porquet , and V. Oknyansky
+    F. Marin, V. H. Sasse , <strong class="author-highlight">J. Biedermann</strong> , D. Hutsemékers, R. C. Fernandes, D. Porquet , and V. Oknyansky
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -83,7 +83,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
     <br>
-    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong>J. Biedermann<strong>, D. Hutsemékers, and M. Turkki
+    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong class="author-highlight">J. Biedermann<strong>, D. Hutsemékers, and M. Turkki
     <br>
     <em>Astronomy and Astrophysics (2025).</em>
     <br>
@@ -97,7 +97,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory.</em></strong>
     <br>
-    C. D. Dressing, D. Adams, E. Alecian et al (including <strong>J. Biedermann<strong>)
+    C. D. Dressing, D. Adams, E. Alecian et al (including <strong class="author-highlight">J. Biedermann<strong>)
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
