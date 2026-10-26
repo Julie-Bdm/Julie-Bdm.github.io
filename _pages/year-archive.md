@@ -16,7 +16,7 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-## Towards a broader view of AGN polarization
+## Towards a broader view of AGN polarization {#halpha-composite}
 
 <div class="research-text-black">
     Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
@@ -24,7 +24,7 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-## Hα asymetrique geometry and polarization in extreme AGN
+## Hα asymetrique geometry and polarization in extreme AGN {#extreme-agns}
 
 <div class="research-text-black">
 
@@ -33,8 +33,7 @@ Write a short description of your research project here. Introduce the scientifi
 
 <div class="research-divider"></div>
 
-## Mrk 231 Probing complex AGN structures through spectropolarimetry
-
+## Mrk 231 Probing complex AGN structures through spectropolarimetry {#binary-mrk231}
 <div class="research-text-black">
 Introduce your second research project here, explaining how it complements your broader research interests.
 </div>
