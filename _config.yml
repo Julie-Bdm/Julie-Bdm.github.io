@@ -81,9 +81,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Julie-Bdm"
 
-    #- label: "ORCID"
-    #  icon: "ai ai-orcid"
-    #  url: "https://orcid.org/0009-0000-5831-3518"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0000-5831-3518"
 
     
 
