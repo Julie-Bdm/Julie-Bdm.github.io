@@ -69,8 +69,7 @@ classes:
   <li>
     <strong class="publication-title"><em>Spectropolarimetry of the changing-look active galactic nucleus NGC 1566 and its potential link to supermassive black hole binaries.</em></strong>
     <br>
-    Marin, F., Hutsemékers, D., <strong>Biedermann, J.</strong>.
-    Marin, F., Sasse, V. H., <strong>Biedermann, J., Hutsemekers, D., Fernandes, R. C., Porquet, D., Oknyansky, V.
+    Marin, F., Sasse, V. H., <strong>Biedermann</strong>, J., Hutsemekers, D., Fernandes, R. C., Porquet, D., Oknyansky, V.
     <br>
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
@@ -79,4 +78,21 @@ classes:
 </ul>
 
 <div class="research-divider"></div>
+
+<ul class="publication-list">
+  <li>
+    <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
+    <br>
+    Marin, F., Pursimo, T., Liodakis, I., Lindfors, E., <strong>Biedermann, J.</strong>,  Hutsemékers, D., Turkki, M.
+    <br>
+    <em>Astronomy and Astrophysics (2025).</em>
+    <br>
+    <a href="/assets/pdf/article/second_author/aa56163-25.pdf" target="_blank" rel="noopener">[PDF]</a>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+
+
 
