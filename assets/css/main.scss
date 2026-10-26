@@ -454,8 +454,6 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
 
 // augemnter taille de page home :
-
-
 /* Widen the homepage content without changing the sidebar */
 @media (min-width: 64em) {
   .layout--home #main {
@@ -471,7 +469,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
   .layout--home #main .page {
-    width: 100%;
+    width: 80%;
     float: right;
     clear: none;
   }
