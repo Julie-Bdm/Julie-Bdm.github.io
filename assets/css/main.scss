@@ -459,34 +459,25 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 
 
 /* Homepage: keep the sidebar fixed and extend content to the right */
+/* Extend the homepage container towards the right */
 @media (min-width: 64em) {
   .layout--home #main {
-    display: grid;
-    grid-template-columns: 20% minmax(0, 1fr);
-    column-gap: 2em;
-
     width: calc(95% + 100px);
     max-width: none;
     margin-left: 2.5%;
     margin-right: 0;
-    box-sizing: border-box;
   }
 
   .layout--home #main .sidebar {
-    float: none;
-    width: 100%;
-    min-width: 0;
+    width: 20%;
     margin-left: 0;
-    box-sizing: border-box;
   }
 
   .layout--home #main .page {
-    float: none;
-    width: 100%;
-    min-width: 0;
-    margin: 0;
+    width: 72%;
+    float: right;
     clear: none;
-    box-sizing: border-box;
+    margin-right: 0;
   }
 
   .layout--home #main .page__inner-wrap {
@@ -495,7 +486,3 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     box-sizing: border-box;
   }
 }
-
-
-
-
