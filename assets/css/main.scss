@@ -60,7 +60,13 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
 /* Justify text only on the About page */
-.about-page .page__content {
+.publications-page .page__content {
+    text-align: justify;
+  }
+.conferences-page .page__content {
+    text-align: justify;
+  }
+.research-page .page__content {
     text-align: justify;
   }
 
