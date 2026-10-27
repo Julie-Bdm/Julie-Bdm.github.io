@@ -452,16 +452,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 }
 
-
-// augemnter taille de page home :
-/* Widen the homepage content without changing the sidebar */
-
-
-
-/* Homepage: keep the sidebar fixed and extend content to the right */
-/* Extend the homepage container towards the right */
-
-/* Extend the homepage container towards the right */
+/* Extend the homepage container towards the right - home page */
 @media (min-width: 64em) {
   .layout--home #main {
     width: calc(95% + 100px);
@@ -471,7 +462,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
   .layout--home #main .sidebar {
-    width: 10%;
+    width: 20%;
     margin-left: 0;
   }
 
