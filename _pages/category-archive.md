@@ -81,20 +81,6 @@ classes:
 
 <ul class="publication-list">
   <li>
-    <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
-    <br>
-    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong class="author-highlight">J. Biedermann</strong> , D. Hutsemékers, and M. Turkki
-    <br>
-    <em>Astronomy and Astrophysics (2025).</em>
-    <br>
-    <a href="/assets/pdf/article/second_author/aa56163-25.pdf" target="_blank" rel="noopener">[PDF]</a>
-  </li>
-</ul>
-
-<div class="research-divider"></div>
-
-<ul class="publication-list">
-  <li>
     <strong class="publication-title"><em>Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory.</em></strong>
     <br>
     C. D. Dressing, D. Adams, E. Alecian et al (including <strong class="author-highlight">J. Biedermann</strong>)
@@ -102,5 +88,19 @@ classes:
     <em>Astronomy and Astrophysics (2026).</em>
     <br>
     <a href="https://arxiv.org/pdf/2608.11294" target="_blank" rel="noopener">[PDF]</a>
+  </li>
+</ul>
+
+<div class="research-divider"></div>
+
+<ul class="publication-list">
+  <li>
+    <strong class="publication-title"><em>Spectropolarimetry of NGC 1275 reveals a narrow-line radio galaxy with polarization parallel to its radio jet axis.</em></strong>
+    <br>
+    F. Marin, T. Pursimo, I. Liodakis, E. Lindfors, <strong class="author-highlight">J. Biedermann</strong> , D. Hutsemékers, and M. Turkki
+    <br>
+    <em>Astronomy and Astrophysics (2025).</em>
+    <br>
+    <a href="/assets/pdf/article/second_author/aa56163-25.pdf" target="_blank" rel="noopener">[PDF]</a>
   </li>
 </ul>
