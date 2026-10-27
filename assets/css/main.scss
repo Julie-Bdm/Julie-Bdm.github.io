@@ -456,13 +456,12 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 // augemnter taille de page home :
 /* Widen the homepage content without changing the sidebar */
 
-
 /* Extend the homepage container towards the right */
 @media (min-width: 64em) {
   .layout--home #main {
     width: calc(95% + 100px);
     max-width: none;
-    margin-left: auto;
+    margin-left: 2.5%;
     margin-right: 0;
   }
 
@@ -472,7 +471,7 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
   .layout--home #main .page {
-    width: 75%;
+    width: 72%;
     float: right;
     clear: none;
     margin-right: 0;
