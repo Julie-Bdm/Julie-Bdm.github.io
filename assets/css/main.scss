@@ -60,13 +60,10 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 
 /* Justify text only on the About page */
-.publications-page .page__content {
+.publication-page .page__content {
     text-align: justify;
   }
-.conferences-page .page__content {
-    text-align: justify;
-  }
-.research-page .page__content {
+.conference-page .page__content {
     text-align: justify;
   }
 
@@ -238,10 +235,12 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 .research-page .research-text-black {
   color: #000000;
   text-align: justify;
+  font-size: 1em;
 }
 
 .research-page .research-text-green {
   color: #3D5D3D;
+  font-size: 2em;
 }
 
 /* Green separators between research projects */
