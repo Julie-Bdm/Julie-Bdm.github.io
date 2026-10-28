@@ -27,7 +27,6 @@ classes: research-page
 ## Exploring unusual broad emission lines region structures with spectropolarimetry of asymetric broad Hα. {#extreme-agns}
 
 <div class="research-text-black">
-
 What can asymmetric Hα emission profiles reveal about the kinematics and geometry of the BLR in AGNs?
 <br>
 <br>
