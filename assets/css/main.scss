@@ -382,6 +382,8 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
 }
 
 
+
+
 // page home pour afficher les domaines de recherche ------------------------------
 
 /* Research cards on the homepage */
@@ -452,6 +454,18 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
     aspect-ratio: 16 / 9;
   }
 }
+
+
+
+// article link
+
+.article-card-link {
+  color: #3D5D3D;
+  font-size: 0.55em;
+  font-weight: italic;
+  margin-top: auto;
+}
+
 
 /* Extend the homepage container towards the right - home page */
 @media (min-width: 64em) {
