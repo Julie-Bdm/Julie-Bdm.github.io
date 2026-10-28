@@ -29,17 +29,24 @@ classes: research-page
 <div class="research-text-black">
 
 What can asymmetric Hα emission profiles reveal about the kinematics and geometry of the BLR in AGNs?
-
+<br>
+<br>
+<br>
 Broad Balmer emission lines found in AGNs represent a powerful probe to study the kinematic and geometry of the BLR.  While some AGNs exhibit relatively symmetric emission-line profiles, a small fraction of AGNs display strongly asymmetric or unusually broad wings in the BAlmer profile, suggesting complex kinematic structures within their BLRs. Spectroscopy alone, however, cannot always distinguish between the different physical configurations that may produce these profiles. Spectropolarimetry offers an additional perspective by probing the geometry of scattering regions and the spatial distribution of the emitting gas.
-
+<br>
+<br>
 In this work, we investigate the spectropolarimetric properties of asymmetric Hα emission lines in a sample of seven type 1 AGNs observed with the VLT/FORS2 instrument. The approach combines detailed spectral decomposition with the analysis of wavelength-dependent polarization to investigate the kinematics and geometry of the BLR.
-
+<br>
+<br>
 First, we decompose each Hα profile into a combination of Lorentzian components, representing distinct contributions narrow and broad component to the observed emission. When the initial components cannot adequately reproduce the observed line shape, additional broad Lorentzian components are introduced to reproduce the asymmetric wings, whether enhanced on the blue or red side of the profile. This decomposition provides a detailed description of the complex emission line structure and allows individual kinematic components to be investigated separately.
-
+<br>
+<br>
 Then we extend this spectral model to spectropolarimetry by assigning normalized Stokes parameters, (q=Q/I) and (u=U/I), to each Lorentzian component. Crucially, the original spectral decomposition is kept unchanged, the polarization properties are adjusted to reproduce simultaneously the observed degree of polarization and polarization angle across the Hα line. This approach provides a consistent framework for connecting the kinematic structure traced by the emission line to its polarization signatures.
-
+<br>
+<br>
 By examining the polarization properties of the individual components and their relationship with line width, this study explores possible variations in the geometry of the BLR and its surrounding scattering regions. The results point towards different the possibility of a stratified BLR and a disk-wind structure linking equatorial and polar regions.
-
+<br>
+<br>
 More broadly, this work demonstrates how spectropolarimetric decomposition can provide a more detailed view of the complex inner regions of AGNs than spectroscopy alone. Future high-sensitivity spectropolarimeters, including POLLUX, a proposed ultraviolet spectropolarimeter for the Habitable Worlds Observatory, could extend this approach to new resolution and provide further constraints on the physical models of the BLR and its associated outflows.
 
 </div>
