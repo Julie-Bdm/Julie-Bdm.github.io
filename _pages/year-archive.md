@@ -75,8 +75,7 @@ The results show that the binary black hole model can reproduce the pronounced u
 <br>
 <br>
 Although these results do not establish the presence of a binary system, they demonstrate how spectropolarimetry can provide complementary constraints on the structure of AGNs and help assess competing physical scenarios. Future high sensitivity ultraviolet spectropolarimetric observations, particularly with next generation instruments such as POLLUX, the propsoed spectropoalrimeter to be mounted on the future sapce missio of HWO, could provide more tests of the binary black hole hypothesis and offer new insights into the evolution of supermassive black holes.
-<br>
-<br>
+</div>
 
 <a href="/assets/pdf/article/first_author/aa53694-25.pdf" target="_blank" rel="noopener">Article [PDF]</a>
 
