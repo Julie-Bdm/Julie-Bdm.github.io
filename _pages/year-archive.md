@@ -27,8 +27,7 @@ classes: research-page
 ## Exploring unusual broad emission lines region structures with spectropolarimetry of asymetric broad Hα. {#extreme-agns}
 
 <div class="research-text-black">
-What can asymmetric Hα emission profiles reveal about the kinematics and geometry of the BLR in AGNs?
-<br>
+<strong>What can asymmetric Hα emission profiles reveal about the kinematics and geometry of the BLR in AGNs?</strong>
 <br>
 <br>
 Broad Balmer emission lines found in AGNs represent a powerful probe to study the kinematic and geometry of the BLR.  While some AGNs exhibit relatively symmetric emission-line profiles, a small fraction of AGNs display strongly asymmetric or unusually broad wings in the BAlmer profile, suggesting complex kinematic structures within their BLRs. Spectroscopy alone, however, cannot always distinguish between the different physical configurations that may produce these profiles. Spectropolarimetry offers an additional perspective by probing the geometry of scattering regions and the spatial distribution of the emitting gas.
