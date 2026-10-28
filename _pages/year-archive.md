@@ -58,7 +58,7 @@ More broadly, this work demonstrates how spectropolarimetric decomposition can p
 
 <div class="research-text-black">
 
-Could the unusual ultraviolet spectrum and polarization of Mrk 231 reveal the presence of two supermassive black holes at its centre?
+<strong>Could the unusual ultraviolet spectrum and polarization of Mrk 231 reveal the presence of two supermassive black holes at its centre?</strong>
 <br>
 <br>
 <br>
