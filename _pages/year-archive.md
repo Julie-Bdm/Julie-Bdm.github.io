@@ -77,7 +77,6 @@ Although these results do not establish the presence of a binary system, they de
 
 <a href="/assets/pdf/article/first_author/aa53694-25.pdf" target="_blank" rel="noopener">Article [PDF]</a>
 
-</div>
 
 <div class="research-divider"></div>
 
