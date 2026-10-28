@@ -19,7 +19,22 @@ classes: research-page
 ## Towards a broader view of AGN polarization {#halpha-composite}
 
 <div class="research-text-black">
-    Present another project here, highlighting its scientific motivation and contribution to the study of AGN polarization.
+    
+    
+# Building a Spectropolarimetric Composite of Hα in Type-1 AGNs
+
+<strong>What does the Hα line typically look like in polarized light in Type-1 active galactic nuclei?</strong>
+<br>
+<br>
+The broad Hα emission line is a powerful probe of the BLR in AGNs. While spectroscopy reveals the kinematics of the emitting gas, spectropolarimetry provides additional information about the geometry of the emitting and scattering regions. However, individual observations can differ significantly in their instrumental characteristics, signal to noise ratios, and observed polarization properties, making it difficult to establish a common reference for comparison.
+<br>
+<br>
+In this study, we combine archival spectropolarimetric observations of more than 100 Type 1 AGNs to construct a composite Hα profile representative of the population. By regrouping observations obtained with different instruments and at different epochs onto a common rest-frame wavelength grid, we investigate the average properties of the total and polarized emission of the Hα emission profile. This composite provides a population level reference against which individual AGNs with exotic or highly asymmetric Balmer line profiles can be compared.
+<br>
+<br>
+Our results show that the composite Hα line is broader in polarized flux than in total flux, suggesting that the polarized emission can provide a distinct view of the BLR kinematics and scattering geometry. The composite also reveals systematic polarization features around the line, highlighting the importance of accounting for narrow-line emission when interpreting the polarization of broad Balmer lines.
+<br>
+<br>
 </div>
 
 <div class="research-divider"></div>
