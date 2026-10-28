@@ -51,6 +51,10 @@ More broadly, this work demonstrates how spectropolarimetric decomposition can p
 
 </div>
 
+<a href="/assets/pdf/article/first_author/aa60661-26.pdf" target="_blank" rel="noopener">[PDF]</a>
+
+</div>
+
 <div class="research-divider"></div>
 
 ## Polarimetric signatures of a potential binary supermassive black hole system in Mrk 231. {#binary-mrk231}
@@ -74,9 +78,12 @@ The results show that the binary black hole model can reproduce the pronounced u
 <br>
 <br>
 Although these results do not establish the presence of a binary system, they demonstrate how spectropolarimetry can provide complementary constraints on the structure of AGNs and help assess competing physical scenarios. Future high sensitivity ultraviolet spectropolarimetric observations, particularly with next generation instruments such as POLLUX, the propsoed spectropoalrimeter to be mounted on the future sapce missio of HWO, could provide more tests of the binary black hole hypothesis and offer new insights into the evolution of supermassive black holes.
+
 </div>
 
 <a href="/assets/pdf/article/first_author/aa53694-25.pdf" target="_blank" rel="noopener">Article [PDF]</a>
+
+</div>
 
 <div class="research-divider"></div>
 
