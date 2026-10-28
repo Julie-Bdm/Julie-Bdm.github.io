@@ -19,10 +19,7 @@ classes: research-page
 ## Towards a broader view of AGN polarization {#halpha-composite}
 
 <div class="research-text-black">
-    
-    
-# Building a Spectropolarimetric Composite of Hα in Type-1 AGNs
-
+      
 <strong>What does the Hα line typically look like in polarized light in Type-1 active galactic nuclei?</strong>
 <br>
 <br>
