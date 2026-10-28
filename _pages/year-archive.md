@@ -61,7 +61,6 @@ More broadly, this work demonstrates how spectropolarimetric decomposition can p
 <strong>Could the unusual ultraviolet spectrum and polarization of Mrk 231 reveal the presence of two supermassive black holes at its centre?</strong>
 <br>
 <br>
-<br>
 Supermassive black holes are thought to reside at the centres of nearly all massive galaxies. When galaxies merge, their central black holes may eventually form a gravitationally bound binary system. However, identifying such systems remains a major observational challenge, as their signatures can be difficult to distinguish from the complex physical processes occurring in AGNs.
 <br>
 <br>
