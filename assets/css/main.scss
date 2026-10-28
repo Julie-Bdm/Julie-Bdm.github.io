@@ -455,18 +455,6 @@ $primary-color: #F2F1ED;    // Couleur d'accentuation principale red : EF4D52 | 
   }
 }
 
-
-
-// article link
-
-.article-card-link {
-  color: #3D5D3D;
-  font-size: 0.55em;
-  font-weight: italic;
-  margin-top: auto;
-}
-
-
 /* Extend the homepage container towards the right - home page */
 @media (min-width: 64em) {
   .layout--home #main {
