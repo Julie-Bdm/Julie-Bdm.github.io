@@ -50,7 +50,7 @@ More broadly, this work demonstrates how spectropolarimetric decomposition can p
 <br>
 <br>
 <a href="/assets/pdf/article/first_author/aa60661-26.pdf" target="_blank" rel="noopener">Article [PDF]</a>
-
+</div>
 
 <div class="research-divider"></div>
 
