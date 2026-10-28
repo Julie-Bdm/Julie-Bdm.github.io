@@ -24,7 +24,7 @@ classes: research-page
 
 <div class="research-divider"></div>
 
-## Exploring unusual broad emission lines region structures with spectropolarimetry of asymetric broad Hα.  {#extreme-agns}
+## Exploring unusual broad emission lines region structures with spectropolarimetry of asymetric broad Hα. {#extreme-agns}
 
 <div class="research-text-black">
 
