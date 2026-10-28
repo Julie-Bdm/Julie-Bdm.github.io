@@ -48,12 +48,10 @@ By examining the polarization properties of the individual components and their 
 <br>
 <br>
 More broadly, this work demonstrates how spectropolarimetric decomposition can provide a more detailed view of the complex inner regions of AGNs than spectroscopy alone. Future high-sensitivity spectropolarimeters, including POLLUX, a proposed ultraviolet spectropolarimeter for the Habitable Worlds Observatory, could extend this approach to new resolution and provide further constraints on the physical models of the BLR and its associated outflows.
-
-</div>
-
+<br>
+<br>
 <a href="/assets/pdf/article/first_author/aa60661-26.pdf" target="_blank" rel="noopener">[PDF]</a>
 
-</div>
 
 <div class="research-divider"></div>
 
@@ -78,8 +76,8 @@ The results show that the binary black hole model can reproduce the pronounced u
 <br>
 <br>
 Although these results do not establish the presence of a binary system, they demonstrate how spectropolarimetry can provide complementary constraints on the structure of AGNs and help assess competing physical scenarios. Future high sensitivity ultraviolet spectropolarimetric observations, particularly with next generation instruments such as POLLUX, the propsoed spectropoalrimeter to be mounted on the future sapce missio of HWO, could provide more tests of the binary black hole hypothesis and offer new insights into the evolution of supermassive black holes.
-
-</div>
+<br>
+<br>
 
 <a href="/assets/pdf/article/first_author/aa53694-25.pdf" target="_blank" rel="noopener">Article [PDF]</a>
 
