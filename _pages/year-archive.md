@@ -50,7 +50,7 @@ By examining the polarization properties of the individual components and their 
 More broadly, this work demonstrates how spectropolarimetric decomposition can provide a more detailed view of the complex inner regions of AGNs than spectroscopy alone. Future high-sensitivity spectropolarimeters, including POLLUX, a proposed ultraviolet spectropolarimeter for the Habitable Worlds Observatory, could extend this approach to new resolution and provide further constraints on the physical models of the BLR and its associated outflows.
 <br>
 <br>
-<a href="/assets/pdf/article/first_author/aa60661-26.pdf" target="_blank" rel="noopener">[PDF]</a>
+<a href="/assets/pdf/article/first_author/aa60661-26.pdf" target="_blank" rel="noopener">Article [PDF]</a>
 
 
 <div class="research-divider"></div>
